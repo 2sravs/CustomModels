@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CustomModel2.props" />
+</Project>
